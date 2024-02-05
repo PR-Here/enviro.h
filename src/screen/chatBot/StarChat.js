@@ -26,8 +26,8 @@ const StarChat = ({ starredChat, onDelete }) => {
         }
     }
 
-    let filteredData = starredChat?.filter(item => item.isStarred === "1")
 
+    let filteredData = starredChat?.filter(item => item.isStarred === "1")
 
     return (
         <View style={{ marginTop: 18, marginHorizontal: 16, flex: 1 }}>
