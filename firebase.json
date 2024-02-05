@@ -1,0 +1,11 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json",
+    "messaging_ios_foreground_presentation_options": ["badge", "sound", "list", "banner"]
+  },
+  "react-native": {
+    "analytics_auto_collection_enabled": false,
+    "messaging_auto_init_enabled": false
+  }
+}

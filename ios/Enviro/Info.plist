@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+      <key>CFBundleDocumentTypes</key>
+      <array>
+        <dict>
+          <key>CFBundleTypeName</key>
+          <string>PDF Document</string>
+          <key>LSItemContentTypes</key>
+          <array>
+            <string>com.adobe.pdf</string>
+            <string>public.pdf</string>
+          </array>
+        </dict>
+      </array>
+
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.enviro</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.48257671350-4durnoajst6un3l2n9g5pebbjc3kaohq</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Gordita Black Italic.otf</string>
+		<string>Gordita Black.otf</string>
+		<string>Gordita Bold Italic.otf</string>
+		<string>Gordita Bold.otf</string>
+		<string>Gordita Light Italic.otf</string>
+		<string>Gordita Light.otf</string>
+		<string>Gordita Medium Italic.otf</string>
+		<string>Gordita Medium.otf</string>
+		<string>Gordita Regular Italic.otf</string>
+		<string>Gordita Regular.otf</string>
+		<string>Gordita Thin Italic.otf</string>
+		<string>Gordita Thin.otf</string>
+		<string>Gordita Ultra Italic.otf</string>
+		<string>Gordita Ultra.otf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>NSLocalNetworkUsageDescription</key>
+    <string>Allow app to connect to the server.</string>
+    <key>NSNotification</key>
+    <string>Allow app to send you notifications.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>You are using Fake Gps Location. Please disabled it for using App.</string>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>48257671350-4durnoajst6un3l2n9g5pebbjc3kaohq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.48257671350-4durnoajst6un3l2n9g5pebbjc3kaohq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>48257671350-og5mr27v0bmr1gsb90hkp4ke0gp3s17p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlWF8u40wJNU-Mr3HkLzcpJHHJQQA6eJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>48257671350</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enviro</string>
+	<key>PROJECT_ID</key>
+	<string>enviro-one-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enviro-one-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:48257671350:ios:48ea0e420d6f9f522e0617</string>
+	<key>FIREBASE_ANALYTICS_COLLECTION_DEACTIVATE</key>
+	<false/>
+</dict>
+</plist>
